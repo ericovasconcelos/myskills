@@ -3,6 +3,9 @@
   "expo": {
     "android": {
       "package": "com.ericovasconcelos.myskills"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ericovasconcelos.myskills"
     }
   }
 }
