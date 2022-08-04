@@ -141,7 +141,7 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     defaultConfig {
-        applicationId 'com.ericovasconcelos.myskills'
+        applicationId 'com.erico.myskills'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -240,13 +240,14 @@ android {
         debug {
             signingConfig signingConfigs.debug
         }
+        // ######## Gerenciado pelo AppCenter
         // release {
         //     // Caution! In production, you need to generate your own keystore file.
         //     // see https://reactnative.dev/docs/signed-apk-android.
         //     signingConfig signingConfigs.debug
         //     minifyEnabled enableProguardInReleaseBuilds
         //     proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
-        // } Handle by AppCenter
+        // }
     }
 
     // applicationVariants are e.g. debug, release

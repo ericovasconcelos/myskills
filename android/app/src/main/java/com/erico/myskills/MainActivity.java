@@ -1,4 +1,4 @@
-package com.ericovasconcelos.myskills;
+package com.erico.myskills;
 
 import android.os.Build;
 import android.os.Bundle;

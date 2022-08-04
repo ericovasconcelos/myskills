@@ -1,11 +1,9 @@
 {
   "name": "myskills",
-  "expo": {
-    "android": {
-      "package": "com.ericovasconcelos.myskills"
-    },
-    "ios": {
-      "bundleIdentifier": "com.ericovasconcelos.myskills"
-    }
+  "android": {
+    "package": "com.erico.myskills"
+  },
+  "ios": {
+    "bundleIdentifier": "com.ericovasconcelos.myskills"
   }
 }

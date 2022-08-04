@@ -1,4 +1,4 @@
-package com.ericovasconcelos.myskills.newarchitecture;
+package com.erico.myskills.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.ericovasconcelos.myskills.BuildConfig;
-import com.ericovasconcelos.myskills.newarchitecture.components.MainComponentsRegistry;
-import com.ericovasconcelos.myskills.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.erico.myskills.BuildConfig;
+import com.erico.myskills.newarchitecture.components.MainComponentsRegistry;
+import com.erico.myskills.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
